@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "FIRE!!!",
+  "base_artist": "Rachie",
+  "createdAt": "2025-12-01T13:30:16.731372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fire And Flame",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/01_Fire_And_Flame_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heart On Fire",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/02_Heart_On_Fire_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hearts On Fire (From \"Rocky IV\")",
+      "artist": "John Cafferty",
+      "has_synced": true,
+      "path": "select/03_Hearts_On_Fire_(From__Rocky_IV_)_John_Cafferty.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Floating Fire",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_The_Floating_Fire_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Floating Fire",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_The_Floating_Fire_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Fire I Can't Put Out",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/06_A_Fire_I_Can't_Put_Out_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Fire I Can't Put Out (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/07_A_Fire_I_Can't_Put_Out_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Fire I Can't Put Out (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_A_Fire_I_Can't_Put_Out_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "After The Fire Is Gone",
+      "artist": "Conway Twitty feat. Loretta Lynn",
+      "has_synced": true,
+      "path": "select/09_After_The_Fire_Is_Gone_Conway_Twitty_feat._Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "After The Fire Is Gone (Single Version)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/10_After_The_Fire_Is_Gone_(Single_Version)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feel That Fire",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/11_Feel_That_Fire_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fire",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/12_Fire_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fire On Wheels",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/13_Fire_On_Wheels_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fire and Smoke",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/14_Fire_and_Smoke_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fire and Smoke",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/15_Fire_and_Smoke_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fire on the Mountain",
+      "artist": "The Marshall Tucker Band",
+      "has_synced": true,
+      "path": "select/16_Fire_on_the_Mountain_The_Marshall_Tucker_Band.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Girl On Fire",
+      "artist": "Kameron Marlowe",
+      "has_synced": true,
+      "path": "select/17_Girl_On_Fire_Kameron_Marlowe.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Girl On Fire",
+      "artist": "Kameron Marlowe",
+      "has_synced": true,
+      "path": "select/18_Girl_On_Fire_Kameron_Marlowe.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Great Balls Of Fire - Live",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": true,
+      "path": "select/19_Great_Balls_Of_Fire_-_Live_Jerry_Lee_Lewis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FIRE!!!",
+      "artist": "Kis-My-Ft2(北山宏光 藤ヶ谷太輔)",
+      "has_synced": false,
+      "path": "select/pl_01_FIRE!!!_Kis-My-Ft2(北山宏光_藤ヶ谷太輔).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "FIRE!!!",
+      "artist": "Kis-My-Ft2(北山宏光 藤ヶ谷太輔)",
+      "has_synced": false,
+      "path": "select/pl_02_FIRE!!!_Kis-My-Ft2(北山宏光_藤ヶ谷太輔).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "FIRE!!!",
+      "artist": "Kis-My-Ft2(北山宏光 藤ヶ谷太輔)",
+      "has_synced": false,
+      "path": "select/pl_03_FIRE!!!_Kis-My-Ft2(北山宏光_藤ヶ谷太輔).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "FIRE!!!",
+      "artist": "Kis-My-Ft2(北山宏光 藤ヶ谷太輔)",
+      "has_synced": false,
+      "path": "select/pl_04_FIRE!!!_Kis-My-Ft2(北山宏光_藤ヶ谷太輔).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "FIRE!!!",
+      "artist": "Kis-My-Ft2(北山宏光 藤ヶ谷太輔)",
+      "has_synced": false,
+      "path": "select/pl_05_FIRE!!!_Kis-My-Ft2(北山宏光_藤ヶ谷太輔).txt"
+    }
+  ]
+}
